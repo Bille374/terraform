@@ -1,5 +1,5 @@
 # TERRAFORM 
-  purpuse use for automate the management of cloud infrastructure
+  purpose use for automate the management of cloud infrastructure
 
 # Exercise 
 1. write providers.tf file
